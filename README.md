@@ -73,6 +73,8 @@ A backend system to manage training centers — built to practice real-world bac
 
 ![Owies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwiesAlhajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=OwiesAlhajali&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwiesAlhajali&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
