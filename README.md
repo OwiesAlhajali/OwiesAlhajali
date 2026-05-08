@@ -69,14 +69,13 @@ Monolithic  ──────────────────────�
 *More projects coming soon as the journey continues...*
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![Owies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwiesAlhajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Owies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwiesAlhajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwiesAlhajali&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwiesAlhajali&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
