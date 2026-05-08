@@ -6,6 +6,10 @@
 
 *I don't just write code — I learn the "why" behind every system.*
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OwiesAlhajali.OwiesAlhajali)
+![Stars](https://img.shields.io/github/stars/OwiesAlhajali?style=flat-square&logo=github&color=yellow)
+
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Owies_Alhajali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owies-alhaj-ali-6277432a5)
