@@ -55,10 +55,10 @@ architecture, maintainability, and real-world engineering quality.
 
 Backend system built to model realistic training center operations and apply backend best practices in:
 
-- API design
-- Database modeling
-- Service-layer organization
-- Clean project structure
+- API Design
+- Database Modeling
+- Service-Layer Organization
+- Clean Project Structure
 
 **Stack:** `Java` `Spring Boot` `MySQL` `REST API`  
 🔗 **Repository:** [OwiesAlhajali/training-center-management](https://github.com/OwiesAlhajali/training-center-management)
@@ -78,12 +78,8 @@ Backend system built to model realistic training center operations and apply bac
 
 <div align="center">
 
-<a href="https://github.com/OwiesAlhajali">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OwiesAlhajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/OwiesAlhajali">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwiesAlhajali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OwiesAlhajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwiesAlhajali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
