@@ -56,9 +56,9 @@ architecture, maintainability, and real-world engineering quality.
 Backend system built to model realistic training center operations and apply backend best practices in:
 
 - API design
-- database modeling
-- service-layer organization
-- clean project structure
+- Database modeling
+- Service-layer organization
+- Clean project structure
 
 **Stack:** `Java` `Spring Boot` `MySQL` `REST API`  
 🔗 **Repository:** [OwiesAlhajali/training-center-management](https://github.com/OwiesAlhajali/training-center-management)
