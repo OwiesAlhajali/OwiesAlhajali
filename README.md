@@ -10,7 +10,7 @@ architecture, maintainability, and real-world engineering quality.
 </p>
 
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OwiesAlhajali.OwiesAlhajali" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OwiesAlhajali.OwiesAlhajali" alt="Profile view count badge" />
   <a href="https://www.linkedin.com/in/owies-alhaj-ali-6277432a5">
     <img src="https://img.shields.io/badge/LinkedIn-Owies%20Alhajali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -78,8 +78,8 @@ Backend system built to model realistic training center operations and apply bac
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OwiesAlhajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwiesAlhajali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OwiesAlhajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub contribution statistics for OwiesAlhajali" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwiesAlhajali&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages chart for OwiesAlhajali" />
 
 </div>
 
